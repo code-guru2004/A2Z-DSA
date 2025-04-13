@@ -34,3 +34,5 @@ class Solution {
             return res;
         }
     };
+
+// 🛑🟢🟡 For check non-repeatable number always done XOR operation
